@@ -25,3 +25,4 @@ app2.data.name.lastName = 'blablabla';
 
     不能使用任何第三方的库
     程序执行环境为浏览器
+代码转：https://github.com/wj704/wj704.github.io/commit/223d0e353201b6240c5cf8012a9ac9b73394a721
